@@ -1,12 +1,11 @@
-INT = "INT"
-FLOAT = "FLOAT"
-PLUS = "PLUS"
-MINUS = "MINUS"
-MUL = "MUL"
-DIV = "DIV"
-INT = "INT"
-LEFT_PAREN = "LEFT_PAREN"
-RIGHT_PAREN = "RIGHT_PAREN"
+INT = 'INT'
+FLOAT = 'FLOAT'
+PLUS = '+'
+MINUS = '-'
+MUL = '*'
+DIV = '/'
+LEFT_PAREN = '('
+RIGHT_PAREN = ')'
 
 
 class Token:
