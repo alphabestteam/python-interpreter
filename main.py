@@ -4,7 +4,7 @@ from token_class import Token
 
 def main():
     token_arr = [
-        Token("INT", "5").__str__(),
+        Token("INT", "35").__str__(),
         Token("PLUS", "+").__str__(),
         Token("INT", "-").__str__(),
         Token("MINUS", "-").__str__(),
